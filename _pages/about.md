@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in the HKUST NLP Group at the Hong Kong University of Science and Technology, where I am advised by Professor Junxian He. My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
+I am a first-year Ph.D. candidate in the HKUST NLP Group at the Hong Kong University of Science and Technology, where I am advised by Professor Junxian He, who also advised me during my undergraduate studies at Shanghai Jiao Tong University. My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
 
 Education
 ======
@@ -17,8 +17,8 @@ Education
 Research Experience
 ======
 * Research Intern, MINIMAX, February 2025 - Present
-* Research Intern, Tencent WXG, June 2024 - September 2024
-* Research Intern, Shanghai AI Lab, June 2023 - December 2023
+* Research Intern, Tencent WXG, June 2024 - September 2024 (Advisor: Zifei Shan)
+* Research Intern, Shanghai AI Lab, June 2023 - December 2023 (Advisor: Prof. Yu Cheng)
 
 Publications
 ======
